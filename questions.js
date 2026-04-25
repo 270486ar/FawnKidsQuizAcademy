@@ -1,102 +1,102 @@
 const quiz = [
   {
-    question: "What do we call the people we live with at home?",
+    q: "What do we call the people we live with at home?",
     options: ["Friends", "Family", "Neighbors", "Teachers"],
-    answer: 1
+    answer: "Family"
   },
   {
-    question: "Which food helps us grow strong?",
+    q: "Which food helps us grow strong?",
     options: ["Junk food", "Healthy food", "Sweets", "Chocolates"],
-    answer: 1
+    answer: "Healthy food"
   },
   {
-    question: "Which of these is a source of water?",
+    q: "Which of these is a source of water?",
     options: ["Mountain", "River", "Road", "Tree"],
-    answer: 1
+    answer: "River"
   },
   {
-   question: "Why do we need water?",
+    q: "Why do we need water?",
     options: ["To play only", "To drink and clean", "To throw", "No need"],
-    answer: 1
+    answer: "To drink and clean"
   },
   {
-    question: "Which transport is used to travel long distances quickly?",
+    q: "Which transport is used to travel long distances quickly?",
     options: ["Bicycle", "Car", "Aeroplane", "Cart"],
-    answer: 2
+    answer: "Aeroplane"
   },
   {
-    question: "Who helps us when we are sick?",
+    q: "Who helps us when we are sick?",
     options: ["Teacher", "Doctor", "Driver", "Farmer"],
-    answer: 1
+    answer: "Doctor"
   },
   {
-   question: "What do plants need to grow?",
+    q: "What do plants need to grow?",
     options: ["Water and sunlight", "Plastic", "Metal", "Glass"],
-    answer: 0
+    answer: "Water and sunlight"
   },
   {
-    question: "Which animal lives in water?",
+    q: "Which animal lives in water?",
     options: ["Dog", "Cat", "Fish", "Cow"],
-    answer: 2
+    answer: "Fish"
   },
   {
-    question: "Why should we keep our surroundings clean?",
+    q: "Why should we keep our surroundings clean?",
     options: ["To look dirty", "To stay healthy", "To waste time", "No reason"],
-    answer: 1
+    answer: "To stay healthy"
   },
   {
-    question: "Which is a good habit?",
+    q: "Which is a good habit?",
     options: ["Not bathing", "Throwing waste", "Washing hands", "Littering"],
-    answer: 2
+    answer: "Washing hands"
   },
   {
-   question: "What do we use to see things?",
+    q: "What do we use to see things?",
     options: ["Ears", "Eyes", "Nose", "Hands"],
-    answer: 1
+    answer: "Eyes"
   },
   {
-   question: "Which festival is celebrated with colors?",
+    q: "Which festival is celebrated with colors?",
     options: ["Diwali", "Holi", "Eid", "Christmas"],
-    answer: 1
+    answer: "Holi"
   },
   {
-    question: "What kind of house is made of ice?",
+    q: "What kind of house is made of ice?",
     options: ["Tent", "Igloo", "Hut", "Flat"],
-    answer: 1
+    answer: "Igloo"
   },
   {
-    question: "Which is a means of communication?",
+    q: "Which is a means of communication?",
     options: ["Stone", "Letter", "Chair", "Table"],
-    answer: 1
+    answer: "Letter"
   },
   {
-    question: "What should we do to save water?",
+    q: "What should we do to save water?",
     options: ["Keep tap open", "Waste water", "Close tap tightly", "Play with water"],
-    answer: 2
+    answer: "Close tap tightly"
   },
   {
-   question: "Which animal is a pet?",
+    q: "Which animal is a pet?",
     options: ["Lion", "Tiger", "Dog", "Elephant"],
-    answer: 2
+    answer: "Dog"
   },
   {
-    question: "Which season brings rain?",
+    q: "Which season brings rain?",
     options: ["Summer", "Winter", "Rainy", "Spring"],
-    answer: 2
+    answer: "Rainy"
   },
   {
-    question: "What do farmers grow?",
+    q: "What do farmers grow?",
     options: ["Cars", "Crops", "Chairs", "Books"],
-    answer: 1
+    answer: "Crops"
   },
   {
-    question: "Why do we wear clothes?",
+    q: "Why do we wear clothes?",
     options: ["To look dirty", "To protect our body", "To waste money", "No reason"],
-    answer: 1
+    answer: "To protect our body"
   },
   {
-    question: "Which place do we go to learn?",
+    q: "Which place do we go to learn?",
     options: ["Hospital", "School", "Market", "Park"],
-    answer: 1
+    answer: "School"
   }
 ];
